@@ -5,8 +5,8 @@
 #include <WiFiUdp.h>
 
 // Configuración de la red WiFi
-const char *ssid = "CLAROWIFI";
-const char *password = "99115500";
+const char *ssid = "TUWIFI";
+const char *password = "TUCONTRASEÑA";
 
 // Configuración del servidor WebSocket
 AsyncWebServer server(80);
